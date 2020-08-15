@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7d9c2bae264806bca1fd",
+    "revision": "0e857bcca5d150bcb9a5",
     "url": "/first_RR-CRA_page/static/css/main.ccba3356.chunk.css"
   },
   {
-    "revision": "7d9c2bae264806bca1fd",
-    "url": "/first_RR-CRA_page/static/js/main.7d9c2bae.chunk.js"
+    "revision": "0e857bcca5d150bcb9a5",
+    "url": "/first_RR-CRA_page/static/js/main.0e857bcc.chunk.js"
   },
   {
     "revision": "5c18800ff9c23e143eb9",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/first_RR-CRA_page/static/media/header2.33eca35f.jpg"
   },
   {
-    "revision": "7bffd7df78548901d387d4130dae5306",
+    "revision": "f8873285ef04f1ae81b3697e7f13df59",
     "url": "/first_RR-CRA_page/index.html"
   }
 ];
